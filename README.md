@@ -1,1 +1,1 @@
-# LearningLogs
+# Final Project - Introduction to Data Analytics - VEF
